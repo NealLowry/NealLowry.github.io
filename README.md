@@ -30,20 +30,20 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (b) CSS features
 
-Modifying padding and margins to indent content and enhance readability
-Modifying link, text color, or other colors to be visually appealing
+- Modifying padding and margins to indent content and enhance readability
+- Modifying link, text color, or other colors to be visually appealing
 
 (c) Advanced features
 
-Contact form which leverages HTML forms
+- Contact form which leverages HTML forms
 
 3. How long, in hours, did it take you to complete this assignment?
 
-10 hrs
+- 10 hrs
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 
-https://www.youtube.com/watch?v=xV7S8BhIeBo&list=PLFBsj85PuSKkn4u3JytxXQvYbn3a5yBnu&index=20&t=3393s 
+- https://www.youtube.com/watch?v=xV7S8BhIeBo&list=PLFBsj85PuSKkn4u3JytxXQvYbn3a5yBnu&index=20&t=3393s 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
