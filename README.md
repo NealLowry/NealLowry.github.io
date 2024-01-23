@@ -24,7 +24,6 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 (a) Basic features
 
 - Appropriate headings and paragraph text
-- Links to external pages
 - Multiple pages with appropriate navigation between them
 - Adding custom icons from Google Material Icons or Font Awesome
 
