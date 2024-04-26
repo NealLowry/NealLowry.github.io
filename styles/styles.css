@@ -312,13 +312,13 @@ section {
   width: 75%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 1%;
+  width: 25%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 2%;
+  width: 1%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 25%;
+  width: 50%;
 }
 
 
