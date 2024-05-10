@@ -24,6 +24,7 @@
 .light-mode {
   --color-primary: #FFFFFF;
   --color-secondary: #9ff566;
+  --color-white: #FFFFFF;
   --color-black: #000;            /* Black */
   --color-grey0: #e5e5e5;         /* Light grey (background) */
   --color-grey-1: #c4d1db;        /* Light blue-grey */
