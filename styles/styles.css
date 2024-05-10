@@ -195,6 +195,7 @@ section {
 }
 .header-content .right-header .name {
   font-size: 3rem;
+  color: var(--color-grey-1);
 }
 .header-content .right-header .name span {
   color: var(--color-secondary);
@@ -231,6 +232,7 @@ section {
 .about-container .right-about .about-item .abt-text {
   padding: 1.5rem;
   display: flex;
+  color: var(--color-grey-1);
   flex-direction: column;
 }
 .about-container .right-about .about-item .abt-text .large-text {
@@ -327,6 +329,7 @@ section {
   text-align: center;
   padding: 3.5rem 0;
   position: relative;
+  color: var(--color-grey-1);
 }
 .stat-title::before {
   content: "";
@@ -345,6 +348,7 @@ section {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
   padding-bottom: 3rem;
+  color: var(--color-grey-1);
 }
 .timeline .timeline-item {
   position: relative;
@@ -610,6 +614,7 @@ section {
 
 .main-title {
   text-align: center;
+  color: var(--color-grey-5);
 }
 .main-title h2 {
   position: relative;
